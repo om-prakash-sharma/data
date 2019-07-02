@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Sporting Goods",
+    "price": "$49.99",
+    "name": "Football",
+    "stocked": true
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$9.99",
+    "name": "Baseball",
+    "stocked": true
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$29.99",
+    "name": "Basketball",
+    "stocked": false
+  },
+  {
+    "category": "Electronics",
+    "price": "$99.99",
+    "name": "iPad Touch",
+    "stocked": true
+  },
+  {
+    "category": "Study",
+    "price": "$2.99",
+    "name": "Books",
+    "stocked": true
+  },
+  {
+    "category": "Electronics",
+    "price": "$399.99",
+    "name": "iPhone",
+    "stocked": false
+  },
+  {
+    "category": "Electronics",
+    "price": "$199.99",
+    "name": "Nexus 7",
+    "stocked": true
+  },
+  {
+    "category": "Cloths",
+    "price": "$79.99",
+    "name": "Shirt",
+    "stocked": true
+  },
+  {
+    "category": "Cloths",
+    "price": "$89.99",
+    "name": "Jeans",
+    "stocked": false
+  }
+]
